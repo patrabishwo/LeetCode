@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Tree
 |  |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
