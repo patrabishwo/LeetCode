@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/patrabishwo/LeetCode/tree/master/0069-sqrtx) |
+| [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Array
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Tree
 |  |
 | ------- |
@@ -34,8 +36,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Hash Table
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
