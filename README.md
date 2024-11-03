@@ -65,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/patrabishwo/LeetCode/tree/master/2580-circular-sentence) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
