@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/patrabishwo/LeetCode/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/patrabishwo/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/patrabishwo/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [2554-minimum-total-distance-traveled](https://github.com/patrabishwo/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3291-find-if-array-can-be-sorted](https://github.com/patrabishwo/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
