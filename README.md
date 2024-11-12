@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/patrabishwo/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/patrabishwo/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0054-spiral-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1677-matrix-diagonal-sum](https://github.com/patrabishwo/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/patrabishwo/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
