@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/patrabishwo/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/patrabishwo/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
