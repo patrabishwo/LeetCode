@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
+| [2235-capitalize-the-title](https://github.com/patrabishwo/LeetCode/tree/master/2235-capitalize-the-title) |
 | [2580-circular-sentence](https://github.com/patrabishwo/LeetCode/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/patrabishwo/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/patrabishwo/LeetCode/tree/master/3451-string-compression-iii) |
