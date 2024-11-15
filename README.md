@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/patrabishwo/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/patrabishwo/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/patrabishwo/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/patrabishwo/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/patrabishwo/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -137,4 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
