@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/patrabishwo/LeetCode/tree/master/0283-move-zeroes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/patrabishwo/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/patrabishwo/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Stack
