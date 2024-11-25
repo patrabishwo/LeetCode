@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/patrabishwo/LeetCode/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0787-sliding-puzzle](https://github.com/patrabishwo/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/patrabishwo/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/patrabishwo/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/patrabishwo/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/patrabishwo/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/patrabishwo/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
