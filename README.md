@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/patrabishwo/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/patrabishwo/LeetCode/tree/master/0069-sqrtx) |
 | [2716-prime-subtraction-operation](https://github.com/patrabishwo/LeetCode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/patrabishwo/LeetCode/tree/master/0067-add-binary) |
 | [0316-remove-duplicate-letters](https://github.com/patrabishwo/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/patrabishwo/LeetCode/tree/master/0067-add-binary) |
 | [1940-maximum-xor-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/patrabishwo/LeetCode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/patrabishwo/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/patrabishwo/LeetCode/tree/master/0067-add-binary) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/patrabishwo/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Two Pointers
 |  |
