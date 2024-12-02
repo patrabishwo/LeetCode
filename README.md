@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/patrabishwo/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/patrabishwo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/patrabishwo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/patrabishwo/LeetCode/tree/master/0053-maximum-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/patrabishwo/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/patrabishwo/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
