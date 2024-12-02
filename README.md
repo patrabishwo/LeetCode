@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0787-sliding-puzzle](https://github.com/patrabishwo/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/patrabishwo/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0932-monotonic-array](https://github.com/patrabishwo/LeetCode/tree/master/0932-monotonic-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/patrabishwo/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/patrabishwo/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/patrabishwo/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
