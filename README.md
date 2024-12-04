@@ -268,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/patrabishwo/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/patrabishwo/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/patrabishwo/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
