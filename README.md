@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/patrabishwo/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/patrabishwo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patrabishwo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/patrabishwo/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/patrabishwo/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/patrabishwo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patrabishwo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/patrabishwo/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/patrabishwo/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/patrabishwo/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/patrabishwo/LeetCode/tree/master/0283-move-zeroes) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/patrabishwo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patrabishwo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/patrabishwo/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/patrabishwo/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/patrabishwo/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/patrabishwo/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/patrabishwo/LeetCode/tree/master/0234-palindrome-linked-list) |
