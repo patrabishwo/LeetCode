@@ -16,7 +16,7 @@ class Solution {
 
         // Step 1: Find the middle of the linked list
         ListNode slow = head;
-        ListNode fast = head.next;
+        ListNode fast = head;
 
         while (fast != null && fast.next != null) {
             slow = slow.next;
@@ -24,10 +24,9 @@ class Solution {
         }
 
         // Step 2: Reverse the second half of the linked list
-        ListNode mid = slow;
-        ListNode curr = mid.next;
-        mid.next = null; // Break the list into two halves
         ListNode prev = null;
+        ListNode curr = slow.next;
+        slow.next = null; // Split the list into two halves
 
         while (curr != null) {
             ListNode next = curr.next;
@@ -40,7 +39,7 @@ class Solution {
         ListNode left = head;
         ListNode right = prev;
 
-        while (left != null && right != null) {
+        while (right != null) {
             ListNode nextL = left.next;
             ListNode nextR = right.next;
 
