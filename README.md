@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/patrabishwo/LeetCode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0780-max-chunks-to-make-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/patrabishwo/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/patrabishwo/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0932-monotonic-array](https://github.com/patrabishwo/LeetCode/tree/master/0932-monotonic-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
+| [0780-max-chunks-to-make-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/patrabishwo/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/patrabishwo/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/patrabishwo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/patrabishwo/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0780-max-chunks-to-make-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/patrabishwo/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/patrabishwo/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/patrabishwo/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -284,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/patrabishwo/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/patrabishwo/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/patrabishwo/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0780-max-chunks-to-make-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/patrabishwo/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/patrabishwo/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0780-max-chunks-to-make-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/patrabishwo/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
