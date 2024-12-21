@@ -92,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/patrabishwo/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/patrabishwo/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/patrabishwo/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/patrabishwo/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/patrabishwo/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
 | ------- |
