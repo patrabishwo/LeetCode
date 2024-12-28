@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/patrabishwo/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/patrabishwo/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/patrabishwo/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/patrabishwo/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/patrabishwo/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/patrabishwo/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/patrabishwo/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/patrabishwo/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/patrabishwo/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/patrabishwo/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/patrabishwo/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/patrabishwo/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Bit Manipulation
@@ -389,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/patrabishwo/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/patrabishwo/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
