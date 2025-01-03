@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/patrabishwo/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/patrabishwo/LeetCode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/patrabishwo/LeetCode/tree/master/0812-rotate-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/patrabishwo/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/patrabishwo/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/patrabishwo/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/patrabishwo/LeetCode/tree/master/2235-capitalize-the-title) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/patrabishwo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/patrabishwo/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/patrabishwo/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/patrabishwo/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/patrabishwo/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/patrabishwo/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
