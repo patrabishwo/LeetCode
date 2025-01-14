@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/patrabishwo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/patrabishwo/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/patrabishwo/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/patrabishwo/LeetCode/tree/master/0283-move-zeroes) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/patrabishwo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/patrabishwo/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/patrabishwo/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/patrabishwo/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/patrabishwo/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/patrabishwo/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/patrabishwo/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/patrabishwo/LeetCode/tree/master/0217-contains-duplicate) |
 | [0780-max-chunks-to-make-sorted](https://github.com/patrabishwo/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/patrabishwo/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/patrabishwo/LeetCode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/patrabishwo/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/patrabishwo/LeetCode/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/patrabishwo/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/patrabishwo/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/patrabishwo/LeetCode/tree/master/0169-majority-element) |
 ## Number Theory
 |  |
 | ------- |
